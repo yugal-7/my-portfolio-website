@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "YUGAL VASHISHTH",
+  name: "YUGAL",
   profile: '/profile.png',
   designation: "Software Engineer",
   description: "My name is Yugal Vashishth. I am a professional and enthusiastic programmer. I am quick learner with self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
